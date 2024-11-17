@@ -1,0 +1,7 @@
+langchain
+langchain-community
+chromadb
+unstructured
+sentence-transformers
+unstructured[pdf]
+unstructured[doc]
