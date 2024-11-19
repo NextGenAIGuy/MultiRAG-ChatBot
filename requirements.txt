@@ -5,3 +5,9 @@ unstructured
 sentence-transformers
 unstructured[pdf]
 unstructured[doc]
+chromadb
+langchain-groq
+python-dotenv
+streamlit
+pandas
+numpy
